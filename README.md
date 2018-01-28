@@ -47,7 +47,7 @@ Development mode
    
   
 # Pending Tasks
-  - Delete task funtionality.
+  - Delete task funtionality Only UI ( backend functionality is completed).
 
 
   
