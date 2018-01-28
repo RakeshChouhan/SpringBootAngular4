@@ -44,10 +44,15 @@ Development mode
     a. Go to the Todo-Client folder by command line and type npm install.
     b. Once the npm install completes successfully type command npm start( not ng serve).
     c. Go to Browser and type http://localhost:4200 app will be displayed on browser.
-   
+
+Ready To Use 
+	a. Go to the dist folder open command prompt and type java -jar TodoServer-0.0.1-SNAPSHOT.jar
+	b. Open browser and type http://localhost:8080
   
 # Pending Tasks
   - Delete task funtionality Only UI ( backend functionality is completed).
+  
+
 
 
   
